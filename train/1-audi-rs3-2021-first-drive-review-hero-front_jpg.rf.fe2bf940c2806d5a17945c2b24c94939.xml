@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>1-audi-rs3-2021-first-drive-review-hero-front_jpg.rf.fe2bf940c2806d5a17945c2b24c94939.jpg</filename>
+	<path>1-audi-rs3-2021-first-drive-review-hero-front_jpg.rf.fe2bf940c2806d5a17945c2b24c94939.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>423</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>591</xmax>
+			<ymin>114</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

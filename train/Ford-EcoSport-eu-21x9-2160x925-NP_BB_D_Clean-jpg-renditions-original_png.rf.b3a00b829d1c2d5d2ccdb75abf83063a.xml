@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Ford-EcoSport-eu-21x9-2160x925-NP_BB_D_Clean-jpg-renditions-original_png.rf.b3a00b829d1c2d5d2ccdb75abf83063a.jpg</filename>
+	<path>Ford-EcoSport-eu-21x9-2160x925-NP_BB_D_Clean-jpg-renditions-original_png.rf.b3a00b829d1c2d5d2ccdb75abf83063a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>274</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>259</xmin>
+			<xmax>535</xmax>
+			<ymin>60</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2023_bmw_5_series_angularfront_jpg.rf.0af86aa08cc063d4fe3e9a43b4019914.jpg</filename>
+	<path>2023_bmw_5_series_angularfront_jpg.rf.0af86aa08cc063d4fe3e9a43b4019914.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>624</xmax>
+			<ymin>84</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

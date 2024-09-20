@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>Home-Teaser-Left-BMW-Welt-Ausstellungen_1680x756-jpg-asset-1673600547493_jpg.rf.ab0726ea6491c28e60dc37706aef7432.jpg</filename>
+	<path>Home-Teaser-Left-BMW-Welt-Ausstellungen_1680x756-jpg-asset-1673600547493_jpg.rf.ab0726ea6491c28e60dc37706aef7432.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>257</xmax>
+			<ymin>135</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>320</xmin>
+			<xmax>428</xmax>
+			<ymin>142</ymin>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>

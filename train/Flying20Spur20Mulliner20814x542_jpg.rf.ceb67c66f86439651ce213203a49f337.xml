@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Flying20Spur20Mulliner20814x542_jpg.rf.ceb67c66f86439651ce213203a49f337.jpg</filename>
+	<path>Flying20Spur20Mulliner20814x542_jpg.rf.ceb67c66f86439651ce213203a49f337.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>585</xmax>
+			<ymin>137</ymin>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

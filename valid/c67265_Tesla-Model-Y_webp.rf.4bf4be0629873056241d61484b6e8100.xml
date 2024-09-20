@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>c67265_Tesla-Model-Y_webp.rf.4bf4be0629873056241d61484b6e8100.jpg</filename>
+	<path>c67265_Tesla-Model-Y_webp.rf.4bf4be0629873056241d61484b6e8100.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>462</xmax>
+			<ymin>162</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

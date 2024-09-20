@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>audi-q7-white_jpg.rf.21ffc1754a478ba0a23ca3688d1865fe.jpg</filename>
+	<path>audi-q7-white_jpg.rf.21ffc1754a478ba0a23ca3688d1865fe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>2</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

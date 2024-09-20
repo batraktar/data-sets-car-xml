@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Front-Shot-15-scaled_jpg.rf.2797ad5a6695ea92a93e95c4b707dd82.jpg</filename>
+	<path>Front-Shot-15-scaled_jpg.rf.2797ad5a6695ea92a93e95c4b707dd82.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>538</xmax>
+			<ymin>68</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

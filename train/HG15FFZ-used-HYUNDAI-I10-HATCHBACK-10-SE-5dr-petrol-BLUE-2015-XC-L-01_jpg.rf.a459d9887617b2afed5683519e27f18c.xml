@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>HG15FFZ-used-HYUNDAI-I10-HATCHBACK-10-SE-5dr-petrol-BLUE-2015-XC-L-01_jpg.rf.a459d9887617b2afed5683519e27f18c.jpg</filename>
+	<path>HG15FFZ-used-HYUNDAI-I10-HATCHBACK-10-SE-5dr-petrol-BLUE-2015-XC-L-01_jpg.rf.a459d9887617b2afed5683519e27f18c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>519</xmax>
+			<ymin>105</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

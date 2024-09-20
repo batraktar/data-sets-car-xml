@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>1551841955092_jpg.rf.4bfb414b8bf9792624bc0ccbd10e9491.jpg</filename>
+	<path>1551841955092_jpg.rf.4bfb414b8bf9792624bc0ccbd10e9491.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>581</xmax>
+			<ymin>26</ymin>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

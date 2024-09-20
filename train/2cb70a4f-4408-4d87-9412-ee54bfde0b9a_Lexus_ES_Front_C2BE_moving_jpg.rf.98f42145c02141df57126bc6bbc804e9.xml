@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2cb70a4f-4408-4d87-9412-ee54bfde0b9a_Lexus_ES_Front_C2BE_moving_jpg.rf.98f42145c02141df57126bc6bbc804e9.jpg</filename>
+	<path>2cb70a4f-4408-4d87-9412-ee54bfde0b9a_Lexus_ES_Front_C2BE_moving_jpg.rf.98f42145c02141df57126bc6bbc804e9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>584</xmax>
+			<ymin>31</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

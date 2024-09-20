@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2024-porsche-718-cayman-style-edition-102-1674233993_jpeg.rf.dd396fecb587053ec9bbbaabd2b971c3.jpg</filename>
+	<path>2024-porsche-718-cayman-style-edition-102-1674233993_jpeg.rf.dd396fecb587053ec9bbbaabd2b971c3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>474</xmax>
+			<ymin>131</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

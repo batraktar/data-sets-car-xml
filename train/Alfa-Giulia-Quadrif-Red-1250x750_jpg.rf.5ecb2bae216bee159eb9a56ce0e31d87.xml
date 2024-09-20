@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Alfa-Giulia-Quadrif-Red-1250x750_jpg.rf.5ecb2bae216bee159eb9a56ce0e31d87.jpg</filename>
+	<path>Alfa-Giulia-Quadrif-Red-1250x750_jpg.rf.5ecb2bae216bee159eb9a56ce0e31d87.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>587</xmax>
+			<ymin>76</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

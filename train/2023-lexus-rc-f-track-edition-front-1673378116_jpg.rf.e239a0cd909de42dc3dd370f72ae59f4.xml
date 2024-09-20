@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2023-lexus-rc-f-track-edition-front-1673378116_jpg.rf.e239a0cd909de42dc3dd370f72ae59f4.jpg</filename>
+	<path>2023-lexus-rc-f-track-edition-front-1673378116_jpg.rf.e239a0cd909de42dc3dd370f72ae59f4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>184</xmin>
+			<xmax>511</xmax>
+			<ymin>57</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

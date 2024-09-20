@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>8ad53cd5-e86e-4286-9a60-128a087f094d_Tesla-2000x1480-3_jpg.rf.2568e45cd685be86105e566627e9890d.jpg</filename>
+	<path>8ad53cd5-e86e-4286-9a60-128a087f094d_Tesla-2000x1480-3_jpg.rf.2568e45cd685be86105e566627e9890d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>473</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

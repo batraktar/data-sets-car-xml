@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>hero_alfaromeostelvio4-63e23ef655224_63e24686dd4b4_jpg.rf.1b54e82dc03dad7bb012c0198be52c19.jpg</filename>
+	<path>hero_alfaromeostelvio4-63e23ef655224_63e24686dd4b4_jpg.rf.1b54e82dc03dad7bb012c0198be52c19.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>509</xmax>
+			<ymin>82</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>210624135605-03-ferrari-296-gtb-super-tease_jpg.rf.4d1ded1c98a4f4385e8b3c68a20543f3.jpg</filename>
+	<path>210624135605-03-ferrari-296-gtb-super-tease_jpg.rf.4d1ded1c98a4f4385e8b3c68a20543f3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>566</xmax>
+			<ymin>117</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

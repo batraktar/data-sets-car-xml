@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2024-dodge-charger-srt-daytona-concept_jpg.rf.d99b0a35b2c7c016e77601b76a18e3e0.jpg</filename>
+	<path>2024-dodge-charger-srt-daytona-concept_jpg.rf.d99b0a35b2c7c016e77601b76a18e3e0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>167</xmin>
+			<xmax>472</xmax>
+			<ymin>115</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

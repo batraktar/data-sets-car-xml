@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>Ford-Mustang-Dashboard-74329_jpg.rf.4be1c1890091c7dff21fff74a7c8169e.jpg</filename>
+	<path>Ford-Mustang-Dashboard-74329_jpg.rf.4be1c1890091c7dff21fff74a7c8169e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

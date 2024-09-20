@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>CLAcoupeSmallPlate_jpg.rf.de47a9ea840df5b8d1b0a463841949bf.jpg</filename>
+	<path>CLAcoupeSmallPlate_jpg.rf.de47a9ea840df5b8d1b0a463841949bf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>485</xmax>
+			<ymin>133</ymin>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

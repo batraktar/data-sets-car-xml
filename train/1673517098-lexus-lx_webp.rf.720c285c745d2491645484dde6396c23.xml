@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>1673517098-lexus-lx_webp.rf.720c285c745d2491645484dde6396c23.jpg</filename>
+	<path>1673517098-lexus-lx_webp.rf.720c285c745d2491645484dde6396c23.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>574</xmax>
+			<ymin>58</ymin>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>dws20600x30020moonbeam20flying20spur20base_png.rf.8275ad2bd41a32a2ea38f99c594b8cdc.jpg</filename>
+	<path>dws20600x30020moonbeam20flying20spur20base_png.rf.8275ad2bd41a32a2ea38f99c594b8cdc.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>564</xmax>
+			<ymin>83</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2020-Lexus-RX-driving-on-road_jpg.rf.2d417ef1d36f64561c6a86f54444b8fd.jpg</filename>
+	<path>2020-Lexus-RX-driving-on-road_jpg.rf.2d417ef1d36f64561c6a86f54444b8fd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>54</xmin>
+			<xmax>427</xmax>
+			<ymin>93</ymin>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

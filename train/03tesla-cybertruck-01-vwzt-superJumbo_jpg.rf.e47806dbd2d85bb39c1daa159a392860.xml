@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>03tesla-cybertruck-01-vwzt-superJumbo_jpg.rf.e47806dbd2d85bb39c1daa159a392860.jpg</filename>
+	<path>03tesla-cybertruck-01-vwzt-superJumbo_jpg.rf.e47806dbd2d85bb39c1daa159a392860.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>621</xmax>
+			<ymin>157</ymin>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

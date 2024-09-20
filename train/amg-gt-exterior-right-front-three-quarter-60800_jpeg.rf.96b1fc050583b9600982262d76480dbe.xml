@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>amg-gt-exterior-right-front-three-quarter-60800_jpeg.rf.96b1fc050583b9600982262d76480dbe.jpg</filename>
+	<path>amg-gt-exterior-right-front-three-quarter-60800_jpeg.rf.96b1fc050583b9600982262d76480dbe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>87</xmin>
+			<xmax>578</xmax>
+			<ymin>78</ymin>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

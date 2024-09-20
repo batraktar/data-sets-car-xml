@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>huracan-evo-exterior-right-front-three-quarter-2_jpeg.rf.228927dff8ebb80e361d735dbf7bd084.jpg</filename>
+	<path>huracan-evo-exterior-right-front-three-quarter-2_jpeg.rf.228927dff8ebb80e361d735dbf7bd084.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>570</xmax>
+			<ymin>106</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

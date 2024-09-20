@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2024-lamborghini-aventador-successor-rendering_webp.rf.30609aabd4b043d4098a7e03731cd67b.jpg</filename>
+	<path>2024-lamborghini-aventador-successor-rendering_webp.rf.30609aabd4b043d4098a7e03731cd67b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>31</xmin>
+			<xmax>641</xmax>
+			<ymin>235</ymin>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

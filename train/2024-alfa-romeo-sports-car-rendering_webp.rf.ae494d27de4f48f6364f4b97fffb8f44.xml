@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2024-alfa-romeo-sports-car-rendering_webp.rf.ae494d27de4f48f6364f4b97fffb8f44.jpg</filename>
+	<path>2024-alfa-romeo-sports-car-rendering_webp.rf.ae494d27de4f48f6364f4b97fffb8f44.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>82</xmin>
+			<xmax>555</xmax>
+			<ymin>70</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

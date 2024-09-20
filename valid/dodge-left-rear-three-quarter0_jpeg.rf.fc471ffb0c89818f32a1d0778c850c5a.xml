@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>dodge-left-rear-three-quarter0_jpeg.rf.fc471ffb0c89818f32a1d0778c850c5a.jpg</filename>
+	<path>dodge-left-rear-three-quarter0_jpeg.rf.fc471ffb0c89818f32a1d0778c850c5a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>107</xmin>
+			<xmax>553</xmax>
+			<ymin>113</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

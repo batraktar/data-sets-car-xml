@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2022-Maserati-Ghibli-Modena-HERO_jpg.rf.8ae9dbf63ab17f74548da6c926ecf7c2.jpg</filename>
+	<path>2022-Maserati-Ghibli-Modena-HERO_jpg.rf.8ae9dbf63ab17f74548da6c926ecf7c2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>64</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+</annotation>

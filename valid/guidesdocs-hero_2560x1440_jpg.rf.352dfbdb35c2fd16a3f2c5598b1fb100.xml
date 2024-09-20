@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>guidesdocs-hero_2560x1440_jpg.rf.352dfbdb35c2fd16a3f2c5598b1fb100.jpg</filename>
+	<path>guidesdocs-hero_2560x1440_jpg.rf.352dfbdb35c2fd16a3f2c5598b1fb100.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

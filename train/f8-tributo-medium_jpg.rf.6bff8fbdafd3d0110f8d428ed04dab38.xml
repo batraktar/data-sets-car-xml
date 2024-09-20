@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>f8-tributo-medium_jpg.rf.6bff8fbdafd3d0110f8d428ed04dab38.jpg</filename>
+	<path>f8-tributo-medium_jpg.rf.6bff8fbdafd3d0110f8d428ed04dab38.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>461</xmax>
+			<ymin>294</ymin>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>alfa-romeo-c42-1_jpg.rf.da2ece28acb8bb99738af305c472aba8.jpg</filename>
+	<path>alfa-romeo-c42-1_jpg.rf.da2ece28acb8bb99738af305c472aba8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>588</xmax>
+			<ymin>109</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

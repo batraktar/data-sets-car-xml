@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>dodge-challenger-srt-superstock-v2_6d89d2e7a9cba91373043850a773d027-1248x624_jpg.rf.245060ee62c2c47814e2639ecddd2cad.jpg</filename>
+	<path>dodge-challenger-srt-superstock-v2_6d89d2e7a9cba91373043850a773d027-1248x624_jpg.rf.245060ee62c2c47814e2639ecddd2cad.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>318</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>575</xmax>
+			<ymin>24</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

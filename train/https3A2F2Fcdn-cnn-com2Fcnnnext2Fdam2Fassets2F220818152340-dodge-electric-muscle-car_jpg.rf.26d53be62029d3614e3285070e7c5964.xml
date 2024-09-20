@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>https3A2F2Fcdn-cnn-com2Fcnnnext2Fdam2Fassets2F220818152340-dodge-electric-muscle-car_jpg.rf.26d53be62029d3614e3285070e7c5964.jpg</filename>
+	<path>https3A2F2Fcdn-cnn-com2Fcnnnext2Fdam2Fassets2F220818152340-dodge-electric-muscle-car_jpg.rf.26d53be62029d3614e3285070e7c5964.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>608</xmax>
+			<ymin>107</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

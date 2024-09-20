@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>bmw-m2-coupe-flyout-en-png-asset-1665414936043_png.rf.8cde2340e6a74b616eb681efa380776d.jpg</filename>
+	<path>bmw-m2-coupe-flyout-en-png-asset-1665414936043_png.rf.8cde2340e6a74b616eb681efa380776d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>558</xmax>
+			<ymin>110</ymin>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

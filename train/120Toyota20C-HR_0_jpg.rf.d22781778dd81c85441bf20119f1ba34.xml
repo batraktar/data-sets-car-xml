@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>120Toyota20C-HR_0_jpg.rf.d22781778dd81c85441bf20119f1ba34.jpg</filename>
+	<path>120Toyota20C-HR_0_jpg.rf.d22781778dd81c85441bf20119f1ba34.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>110</xmin>
+			<xmax>519</xmax>
+			<ymin>68</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

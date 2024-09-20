@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Audi_RS3_hatch_front_dynamic_thumb_jpg.rf.74250a82dc8243bfa9ab604c415c9be3.jpg</filename>
+	<path>Audi_RS3_hatch_front_dynamic_thumb_jpg.rf.74250a82dc8243bfa9ab604c415c9be3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>74</xmin>
+			<xmax>553</xmax>
+			<ymin>68</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

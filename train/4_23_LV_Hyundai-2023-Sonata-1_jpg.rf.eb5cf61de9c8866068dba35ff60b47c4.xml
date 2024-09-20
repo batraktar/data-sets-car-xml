@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>4_23_LV_Hyundai-2023-Sonata-1_jpg.rf.eb5cf61de9c8866068dba35ff60b47c4.jpg</filename>
+	<path>4_23_LV_Hyundai-2023-Sonata-1_jpg.rf.eb5cf61de9c8866068dba35ff60b47c4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>304</xmin>
+			<xmax>587</xmax>
+			<ymin>33</ymin>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

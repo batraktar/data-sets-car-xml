@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>endeavour-ford-car-500x500_png.rf.81542806b3c63b15cb0ebc4b83278173.jpg</filename>
+	<path>endeavour-ford-car-500x500_png.rf.81542806b3c63b15cb0ebc4b83278173.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>623</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>627</xmax>
+			<ymin>173</ymin>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+</annotation>

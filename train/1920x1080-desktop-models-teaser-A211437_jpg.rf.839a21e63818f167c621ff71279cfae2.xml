@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>1920x1080-desktop-models-teaser-A211437_jpg.rf.839a21e63818f167c621ff71279cfae2.jpg</filename>
+	<path>1920x1080-desktop-models-teaser-A211437_jpg.rf.839a21e63818f167c621ff71279cfae2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>188</xmin>
+			<xmax>533</xmax>
+			<ymin>141</ymin>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

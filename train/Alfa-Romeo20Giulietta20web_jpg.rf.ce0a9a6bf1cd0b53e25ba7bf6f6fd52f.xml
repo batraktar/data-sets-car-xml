@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Alfa-Romeo20Giulietta20web_jpg.rf.ce0a9a6bf1cd0b53e25ba7bf6f6fd52f.jpg</filename>
+	<path>Alfa-Romeo20Giulietta20web_jpg.rf.ce0a9a6bf1cd0b53e25ba7bf6f6fd52f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>569</xmax>
+			<ymin>73</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

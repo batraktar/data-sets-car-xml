@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2020-alfa-romeo-stelvio-201-1574119948_jpg.rf.d737ff7c71af34fe1b37f84160a8a0b1.jpg</filename>
+	<path>2020-alfa-romeo-stelvio-201-1574119948_jpg.rf.d737ff7c71af34fe1b37f84160a8a0b1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>554</xmax>
+			<ymin>89</ymin>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

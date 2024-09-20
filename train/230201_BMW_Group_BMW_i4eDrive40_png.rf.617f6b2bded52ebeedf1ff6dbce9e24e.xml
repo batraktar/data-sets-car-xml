@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>230201_BMW_Group_BMW_i4eDrive40_png.rf.617f6b2bded52ebeedf1ff6dbce9e24e.jpg</filename>
+	<path>230201_BMW_Group_BMW_i4eDrive40_png.rf.617f6b2bded52ebeedf1ff6dbce9e24e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>322</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>568</xmax>
+			<ymin>31</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2020-Lexus-GS-F-Driving_jpg.rf.141dc3d1187a8319bfb76dca59f1d426.jpg</filename>
+	<path>2020-Lexus-GS-F-Driving_jpg.rf.141dc3d1187a8319bfb76dca59f1d426.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>471</xmax>
+			<ymin>78</ymin>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

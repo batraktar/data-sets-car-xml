@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>Ferrari-Portofino-M-steering-wheel-and-front-display_png.rf.6cbfabd27d5298f29b43aff38d1d8bfe.jpg</filename>
+	<path>Ferrari-Portofino-M-steering-wheel-and-front-display_png.rf.6cbfabd27d5298f29b43aff38d1d8bfe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Ferrari_F40_-_M5904-00008_4000x2677_crop_center_jpg.rf.1f831366c94865f3e539e3be24d14de3.jpg</filename>
+	<path>Ferrari_F40_-_M5904-00008_4000x2677_crop_center_jpg.rf.1f831366c94865f3e539e3be24d14de3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>587</xmax>
+			<ymin>181</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>

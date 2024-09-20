@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>bentley-exp-100-gt-at-monterey_webp.rf.140b5dd7083e698d83df3f4341acc9d4.jpg</filename>
+	<path>bentley-exp-100-gt-at-monterey_webp.rf.140b5dd7083e698d83df3f4341acc9d4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>582</xmax>
+			<ymin>85</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>2023-Ferrari-Purosangue-SUV-Black-1001x565-28129_jpg.rf.f7bd7f484c4402559c381a78bfc43e6b.jpg</filename>
+	<path>2023-Ferrari-Purosangue-SUV-Black-1001x565-28129_jpg.rf.f7bd7f484c4402559c381a78bfc43e6b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

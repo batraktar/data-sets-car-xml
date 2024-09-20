@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Hilux-2021-666x444-1_jpg.rf.6c772ecd994308172a7081c97ffad4c2.jpg</filename>
+	<path>Hilux-2021-666x444-1_jpg.rf.6c772ecd994308172a7081c97ffad4c2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>598</xmax>
+			<ymin>80</ymin>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>category-small-suv-seltos_webp.rf.d6c3c0bdd0316d188bbc14eb6c57c849.jpg</filename>
+	<path>category-small-suv-seltos_webp.rf.d6c3c0bdd0316d188bbc14eb6c57c849.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>542</xmax>
+			<ymin>84</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>

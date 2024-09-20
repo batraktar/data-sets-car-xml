@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Ford20Mustang20Mach20120and20Lexus20RC20F20feature-16_jpg.rf.51008a82c030858e65bbfe60183af927.jpg</filename>
+	<path>Ford20Mustang20Mach20120and20Lexus20RC20F20feature-16_jpg.rf.51008a82c030858e65bbfe60183af927.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>550</xmax>
+			<ymin>132</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

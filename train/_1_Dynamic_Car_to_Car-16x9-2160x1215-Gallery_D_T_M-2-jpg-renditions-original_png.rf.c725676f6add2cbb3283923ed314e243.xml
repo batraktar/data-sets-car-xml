@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>_1_Dynamic_Car_to_Car-16x9-2160x1215-Gallery_D_T_M-2-jpg-renditions-original_png.rf.c725676f6add2cbb3283923ed314e243.jpg</filename>
+	<path>_1_Dynamic_Car_to_Car-16x9-2160x1215-Gallery_D_T_M-2-jpg-renditions-original_png.rf.c725676f6add2cbb3283923ed314e243.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>510</xmax>
+			<ymin>86</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>cta-1_o_jpg.rf.cb6f50af999fb3a10cd71a08f2d07799.jpg</filename>
+	<path>cta-1_o_jpg.rf.cb6f50af999fb3a10cd71a08f2d07799.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>408</xmax>
+			<ymin>130</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

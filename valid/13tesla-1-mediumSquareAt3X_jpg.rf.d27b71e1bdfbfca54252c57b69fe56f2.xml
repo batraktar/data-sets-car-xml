@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>13tesla-1-mediumSquareAt3X_jpg.rf.d27b71e1bdfbfca54252c57b69fe56f2.jpg</filename>
+	<path>13tesla-1-mediumSquareAt3X_jpg.rf.d27b71e1bdfbfca54252c57b69fe56f2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>581</xmax>
+			<ymin>247</ymin>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

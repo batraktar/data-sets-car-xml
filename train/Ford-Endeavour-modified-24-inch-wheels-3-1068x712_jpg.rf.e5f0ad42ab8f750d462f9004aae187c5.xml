@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Ford-Endeavour-modified-24-inch-wheels-3-1068x712_jpg.rf.e5f0ad42ab8f750d462f9004aae187c5.jpg</filename>
+	<path>Ford-Endeavour-modified-24-inch-wheels-3-1068x712_jpg.rf.e5f0ad42ab8f750d462f9004aae187c5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>612</xmax>
+			<ymin>3</ymin>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

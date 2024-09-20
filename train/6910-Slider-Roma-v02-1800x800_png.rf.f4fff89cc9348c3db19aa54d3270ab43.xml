@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>6910-Slider-Roma-v02-1800x800_png.rf.f4fff89cc9348c3db19aa54d3270ab43.jpg</filename>
+	<path>6910-Slider-Roma-v02-1800x800_png.rf.f4fff89cc9348c3db19aa54d3270ab43.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>284</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>546</xmax>
+			<ymin>79</ymin>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

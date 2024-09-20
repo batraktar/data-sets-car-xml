@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Dodge-Charger-front-on-white-backdrop_jpg.rf.3c9e4deb7004d13f6b0534984a86253a.jpg</filename>
+	<path>Dodge-Charger-front-on-white-backdrop_jpg.rf.3c9e4deb7004d13f6b0534984a86253a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>621</xmax>
+			<ymin>77</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

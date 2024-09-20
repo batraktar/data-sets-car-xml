@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Bentley20Bentayga20Hybrid20web_jpg.rf.ebea8e03a40bf7271e318afce839d6a7.jpg</filename>
+	<path>Bentley20Bentayga20Hybrid20web_jpg.rf.ebea8e03a40bf7271e318afce839d6a7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>151</xmin>
+			<xmax>478</xmax>
+			<ymin>134</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

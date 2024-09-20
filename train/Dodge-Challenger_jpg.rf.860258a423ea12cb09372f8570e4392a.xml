@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Dodge-Challenger_jpg.rf.860258a423ea12cb09372f8570e4392a.jpg</filename>
+	<path>Dodge-Challenger_jpg.rf.860258a423ea12cb09372f8570e4392a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>429</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>594</xmax>
+			<ymin>93</ymin>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

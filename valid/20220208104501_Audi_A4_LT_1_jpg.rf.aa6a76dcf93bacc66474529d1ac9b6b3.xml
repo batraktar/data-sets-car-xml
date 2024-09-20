@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>20220208104501_Audi_A4_LT_1_jpg.rf.aa6a76dcf93bacc66474529d1ac9b6b3.jpg</filename>
+	<path>20220208104501_Audi_A4_LT_1_jpg.rf.aa6a76dcf93bacc66474529d1ac9b6b3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>584</xmax>
+			<ymin>151</ymin>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

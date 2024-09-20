@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Ford_Mustang_GT2C_20-5-2017_28229_jpg.rf.2cd1a4a044b910baf43cefd8ce574639.jpg</filename>
+	<path>Ford_Mustang_GT2C_20-5-2017_28229_jpg.rf.2cd1a4a044b910baf43cefd8ce574639.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>33</xmin>
+			<xmax>596</xmax>
+			<ymin>33</ymin>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

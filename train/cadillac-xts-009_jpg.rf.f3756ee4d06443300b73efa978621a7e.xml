@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>cadillac-xts-009_jpg.rf.f3756ee4d06443300b73efa978621a7e.jpg</filename>
+	<path>cadillac-xts-009_jpg.rf.f3756ee4d06443300b73efa978621a7e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

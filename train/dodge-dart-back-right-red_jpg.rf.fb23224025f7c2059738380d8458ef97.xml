@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>dodge-dart-back-right-red_jpg.rf.fb23224025f7c2059738380d8458ef97.jpg</filename>
+	<path>dodge-dart-back-right-red_jpg.rf.fb23224025f7c2059738380d8458ef97.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>615</xmax>
+			<ymin>80</ymin>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>2022-Audi-A3-interior-35-jpg_jpg.rf.5e646ad2b17caf6bb187eaed9376a437.jpg</filename>
+	<path>2022-Audi-A3-interior-35-jpg_jpg.rf.5e646ad2b17caf6bb187eaed9376a437.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

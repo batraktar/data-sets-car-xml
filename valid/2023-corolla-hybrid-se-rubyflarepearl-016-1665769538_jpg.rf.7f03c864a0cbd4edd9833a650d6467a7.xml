@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2023-corolla-hybrid-se-rubyflarepearl-016-1665769538_jpg.rf.7f03c864a0cbd4edd9833a650d6467a7.jpg</filename>
+	<path>2023-corolla-hybrid-se-rubyflarepearl-016-1665769538_jpg.rf.7f03c864a0cbd4edd9833a650d6467a7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>69</xmin>
+			<xmax>494</xmax>
+			<ymin>47</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

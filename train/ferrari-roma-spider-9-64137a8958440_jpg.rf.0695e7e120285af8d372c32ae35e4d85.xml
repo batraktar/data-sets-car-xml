@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>ferrari-roma-spider-9-64137a8958440_jpg.rf.0695e7e120285af8d372c32ae35e4d85.jpg</filename>
+	<path>ferrari-roma-spider-9-64137a8958440_jpg.rf.0695e7e120285af8d372c32ae35e4d85.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

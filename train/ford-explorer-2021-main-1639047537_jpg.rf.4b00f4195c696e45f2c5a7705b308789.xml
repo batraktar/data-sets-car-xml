@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>ford-explorer-2021-main-1639047537_jpg.rf.4b00f4195c696e45f2c5a7705b308789.jpg</filename>
+	<path>ford-explorer-2021-main-1639047537_jpg.rf.4b00f4195c696e45f2c5a7705b308789.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>81</xmin>
+			<xmax>566</xmax>
+			<ymin>49</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>23-homepage-masthead-lyriq-sport-l-v2_jpg.rf.06d27c3d55d033556fd1b0c80d5e8d35.jpg</filename>
+	<path>23-homepage-masthead-lyriq-sport-l-v2_jpg.rf.06d27c3d55d033556fd1b0c80d5e8d35.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>497</xmax>
+			<ymin>137</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2019_Dodge_Journey_png.rf.1d1d72c1075c238510dac45ca62110cb.jpg</filename>
+	<path>2019_Dodge_Journey_png.rf.1d1d72c1075c238510dac45ca62110cb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>422</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>627</xmax>
+			<ymin>38</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

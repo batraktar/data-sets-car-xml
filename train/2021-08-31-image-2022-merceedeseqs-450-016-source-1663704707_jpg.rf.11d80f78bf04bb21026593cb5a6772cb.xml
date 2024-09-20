@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2021-08-31-image-2022-merceedeseqs-450-016-source-1663704707_jpg.rf.11d80f78bf04bb21026593cb5a6772cb.jpg</filename>
+	<path>2021-08-31-image-2022-merceedeseqs-450-016-source-1663704707_jpg.rf.11d80f78bf04bb21026593cb5a6772cb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>473</xmax>
+			<ymin>192</ymin>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

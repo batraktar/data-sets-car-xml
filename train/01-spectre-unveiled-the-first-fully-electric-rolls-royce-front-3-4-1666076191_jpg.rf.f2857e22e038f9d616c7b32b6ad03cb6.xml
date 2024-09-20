@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>01-spectre-unveiled-the-first-fully-electric-rolls-royce-front-3-4-1666076191_jpg.rf.f2857e22e038f9d616c7b32b6ad03cb6.jpg</filename>
+	<path>01-spectre-unveiled-the-first-fully-electric-rolls-royce-front-3-4-1666076191_jpg.rf.f2857e22e038f9d616c7b32b6ad03cb6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>527</xmax>
+			<ymin>110</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>2021-Cadillac-Escalade-069_jpg.rf.c88c195ec4bc58cc0bd9a0fde8d55378.jpg</filename>
+	<path>2021-Cadillac-Escalade-069_jpg.rf.c88c195ec4bc58cc0bd9a0fde8d55378.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

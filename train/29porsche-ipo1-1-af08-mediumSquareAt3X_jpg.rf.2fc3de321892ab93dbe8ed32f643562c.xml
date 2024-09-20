@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>29porsche-ipo1-1-af08-mediumSquareAt3X_jpg.rf.2fc3de321892ab93dbe8ed32f643562c.jpg</filename>
+	<path>29porsche-ipo1-1-af08-mediumSquareAt3X_jpg.rf.2fc3de321892ab93dbe8ed32f643562c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>641</xmax>
+			<ymin>238</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

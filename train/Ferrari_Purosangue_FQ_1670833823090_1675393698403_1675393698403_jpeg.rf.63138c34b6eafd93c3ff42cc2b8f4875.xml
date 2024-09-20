@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Ferrari_Purosangue_FQ_1670833823090_1675393698403_1675393698403_jpeg.rf.63138c34b6eafd93c3ff42cc2b8f4875.jpg</filename>
+	<path>Ferrari_Purosangue_FQ_1670833823090_1675393698403_1675393698403_jpeg.rf.63138c34b6eafd93c3ff42cc2b8f4875.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>592</xmax>
+			<ymin>84</ymin>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

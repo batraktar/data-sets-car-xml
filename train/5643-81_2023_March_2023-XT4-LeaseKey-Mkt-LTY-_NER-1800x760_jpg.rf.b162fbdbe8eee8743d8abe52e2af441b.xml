@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>5643-81_2023_March_2023-XT4-LeaseKey-Mkt-LTY-_NER-1800x760_jpg.rf.b162fbdbe8eee8743d8abe52e2af441b.jpg</filename>
+	<path>5643-81_2023_March_2023-XT4-LeaseKey-Mkt-LTY-_NER-1800x760_jpg.rf.b162fbdbe8eee8743d8abe52e2af441b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>266</xmin>
+			<xmax>597</xmax>
+			<ymin>66</ymin>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2017_Audi_Q5_28FY29_TDI_Sport_quattro_ultra_wagon_282018-09-1729_01_jpg.rf.43afb6511c5c746136d32e192b5706b5.jpg</filename>
+	<path>2017_Audi_Q5_28FY29_TDI_Sport_quattro_ultra_wagon_282018-09-1729_01_jpg.rf.43afb6511c5c746136d32e192b5706b5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>623</xmax>
+			<ymin>28</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

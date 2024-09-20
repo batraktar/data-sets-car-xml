@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>a9fd6c78-5c57-477a-9be6-1bf9f51cb9eb_2022AlfaRomeoGiuliaFront3QMoving_jpg.rf.cb3bcc40760f97da1b091ac4a647549a.jpg</filename>
+	<path>a9fd6c78-5c57-477a-9be6-1bf9f51cb9eb_2022AlfaRomeoGiuliaFront3QMoving_jpg.rf.cb3bcc40760f97da1b091ac4a647549a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>612</xmax>
+			<ymin>20</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

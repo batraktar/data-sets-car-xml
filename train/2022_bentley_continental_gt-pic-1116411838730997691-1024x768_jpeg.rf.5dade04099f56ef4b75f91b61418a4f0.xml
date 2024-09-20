@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2022_bentley_continental_gt-pic-1116411838730997691-1024x768_jpeg.rf.5dade04099f56ef4b75f91b61418a4f0.jpg</filename>
+	<path>2022_bentley_continental_gt-pic-1116411838730997691-1024x768_jpeg.rf.5dade04099f56ef4b75f91b61418a4f0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>607</xmax>
+			<ymin>94</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

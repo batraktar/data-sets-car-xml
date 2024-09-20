@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>audi-4332261_1920_1606212910120_1606212916775_1648355147705_jpg.rf.5febc1223d5d749d16cd1135e28298fb.jpg</filename>
+	<path>audi-4332261_1920_1606212910120_1606212916775_1648355147705_jpg.rf.5febc1223d5d749d16cd1135e28298fb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

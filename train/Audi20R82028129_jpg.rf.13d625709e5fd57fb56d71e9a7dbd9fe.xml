@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Audi20R82028129_jpg.rf.13d625709e5fd57fb56d71e9a7dbd9fe.jpg</filename>
+	<path>Audi20R82028129_jpg.rf.13d625709e5fd57fb56d71e9a7dbd9fe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>573</xmax>
+			<ymin>117</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

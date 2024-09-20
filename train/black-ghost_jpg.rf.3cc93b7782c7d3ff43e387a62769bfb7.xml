@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>black-ghost_jpg.rf.3cc93b7782c7d3ff43e387a62769bfb7.jpg</filename>
+	<path>black-ghost_jpg.rf.3cc93b7782c7d3ff43e387a62769bfb7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>357</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>47</xmin>
+			<xmax>618</xmax>
+			<ymin>45</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

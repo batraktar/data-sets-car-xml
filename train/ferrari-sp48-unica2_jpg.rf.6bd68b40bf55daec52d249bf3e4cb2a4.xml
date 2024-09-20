@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>ferrari-sp48-unica2_jpg.rf.6bd68b40bf55daec52d249bf3e4cb2a4.jpg</filename>
+	<path>ferrari-sp48-unica2_jpg.rf.6bd68b40bf55daec52d249bf3e4cb2a4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>627</xmax>
+			<ymin>95</ymin>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

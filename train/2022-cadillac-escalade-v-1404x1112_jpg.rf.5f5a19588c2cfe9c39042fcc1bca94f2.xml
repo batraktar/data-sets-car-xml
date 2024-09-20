@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2022-cadillac-escalade-v-1404x1112_jpg.rf.5f5a19588c2cfe9c39042fcc1bca94f2.jpg</filename>
+	<path>2022-cadillac-escalade-v-1404x1112_jpg.rf.5f5a19588c2cfe9c39042fcc1bca94f2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>581</xmax>
+			<ymin>54</ymin>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

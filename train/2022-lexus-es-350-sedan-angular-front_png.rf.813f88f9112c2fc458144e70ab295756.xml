@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2022-lexus-es-350-sedan-angular-front_png.rf.813f88f9112c2fc458144e70ab295756.jpg</filename>
+	<path>2022-lexus-es-350-sedan-angular-front_png.rf.813f88f9112c2fc458144e70ab295756.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>610</xmax>
+			<ymin>65</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>cq5dam-web-768-768_jpeg.rf.d904495f43fd1b24bdf44614294b3993.jpg</filename>
+	<path>cq5dam-web-768-768_jpeg.rf.d904495f43fd1b24bdf44614294b3993.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>267</xmin>
+			<xmax>641</xmax>
+			<ymin>31</ymin>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

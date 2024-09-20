@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2023-bentley-continental-gt-s-coupe-101-1654526518_jpg.rf.2e996b9fa06f76bd69dabbe86f97f56d.jpg</filename>
+	<path>2023-bentley-continental-gt-s-coupe-101-1654526518_jpg.rf.2e996b9fa06f76bd69dabbe86f97f56d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>446</xmax>
+			<ymin>165</ymin>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

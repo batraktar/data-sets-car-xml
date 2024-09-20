@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>2020-cadillac-escalade-2wd-4-door-luxury-angular-front-exterior-view_100721645_l_jpg.rf.99cb6d07f178bade921be061f6b3aeef.jpg</filename>
+	<path>2020-cadillac-escalade-2wd-4-door-luxury-angular-front-exterior-view_100721645_l_jpg.rf.99cb6d07f178bade921be061f6b3aeef.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>11</xmin>
+			<xmax>632</xmax>
+			<ymin>70</ymin>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

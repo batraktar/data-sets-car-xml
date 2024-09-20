@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>1374273519000-new-akerson-1308041446_16_9_jpg.rf.8e522a0f1de3573b1f9b3a83b659354e.jpg</filename>
+	<path>1374273519000-new-akerson-1308041446_16_9_jpg.rf.8e522a0f1de3573b1f9b3a83b659354e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>553</xmax>
+			<ymin>79</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>fortune-ford-kondapur-hyderabad-car-dealers-0cim146tfb_jpg.rf.9ed51392d1f12d09235e97a3ec149bb7.jpg</filename>
+	<path>fortune-ford-kondapur-hyderabad-car-dealers-0cim146tfb_jpg.rf.9ed51392d1f12d09235e97a3ec149bb7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>639</xmax>
+			<ymin>122</ymin>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

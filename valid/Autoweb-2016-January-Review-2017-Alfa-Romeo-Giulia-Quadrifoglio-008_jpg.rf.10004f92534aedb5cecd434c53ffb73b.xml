@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>Autoweb-2016-January-Review-2017-Alfa-Romeo-Giulia-Quadrifoglio-008_jpg.rf.10004f92534aedb5cecd434c53ffb73b.jpg</filename>
+	<path>Autoweb-2016-January-Review-2017-Alfa-Romeo-Giulia-Quadrifoglio-008_jpg.rf.10004f92534aedb5cecd434c53ffb73b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>372</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>609</xmax>
+			<ymin>111</ymin>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
